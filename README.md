@@ -12,3 +12,11 @@
 * Understanding of concepts such as drift and diffusion. 
 
 ![Brownian Motion](00_brownian_motion.svg)
+
+## 01_black-scholes.ipynb
+
+* Introduction to the basic concept Black-Scholes formula and application to stock value. 
+
+* Introducing a class that computes Black-Scholes. 
+
+![Brownian Motion](00_brownian_motion.svg)
