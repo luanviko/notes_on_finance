@@ -19,4 +19,4 @@
 
 * Introducing a class that computes Black-Scholes. 
 
-![Brownian Motion](01_black-scholes.svg)
+![Black Scholes](01_black-scholes.png)
